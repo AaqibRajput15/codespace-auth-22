@@ -1,0 +1,12 @@
+{
+  "name": "codespace-auth-22",
+  "version": "1.0.0",
+  "description": "an auth system totally designed in code space",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
